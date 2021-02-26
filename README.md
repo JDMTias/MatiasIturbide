@@ -1,5 +1,5 @@
 # MatiasIturbide
-A little about my self...
+A little about myself...
 
 I'm Matias Iturbide, A Fullstack Web Developer and welcome to my ReadME!
 
